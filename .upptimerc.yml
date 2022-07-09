@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: My website
-    url: https://juntinglin.github.io/resume/
+    url: https://junting.tech/
 
 
 status-website:

@@ -22,19 +22,19 @@
     "url": "https://junting.tech/",
     "icon": "https://favicons.githubusercontent.com/junting.tech",
     "slug": "my-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 488,
-    "timeWeek": 382,
-    "timeMonth": 382,
-    "timeYear": 382,
+    "status": "up",
+    "uptime": "97.16%",
+    "uptimeDay": "85.09%",
+    "uptimeWeek": "97.16%",
+    "uptimeMonth": "97.16%",
+    "uptimeYear": "97.16%",
+    "time": 394,
+    "timeDay": 485,
+    "timeWeek": 394,
+    "timeMonth": 394,
+    "timeYear": 394,
     "dailyMinutesDown": {
-      "2022-07-13": 0
+      "2022-07-13": 215
     }
   }
 ]

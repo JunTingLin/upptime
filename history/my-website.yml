@@ -1,7 +1,7 @@
 url: https://junting.tech/
-status: up
-code: 200
-responseTime: 433
-lastUpdated: 2023-01-08T06:52:20.851Z
+status: down
+code: 502
+responseTime: 1303
+lastUpdated: 2023-01-08T09:56:56.505Z
 startTime: Fri Jul 08 2022 06:06:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

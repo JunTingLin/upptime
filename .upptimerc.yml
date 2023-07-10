@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: My website
-    url: https://junting.tech/
+    url: https://junting.info/
 
 
 status-website:

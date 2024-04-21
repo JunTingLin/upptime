@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 190,
-    "timeWeek": 138,
+    "timeDay": 83,
+    "timeWeek": 139,
     "timeMonth": 108,
     "timeYear": 100,
     "dailyMinutesDown": {
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/junting.info.ico",
     "slug": "my-website",
     "status": "up",
-    "uptime": "61.30%",
+    "uptime": "61.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.88%",
+    "uptimeYear": "81.15%",
     "time": 632,
-    "timeDay": 645,
-    "timeWeek": 664,
-    "timeMonth": 637,
-    "timeYear": 640,
+    "timeDay": 555,
+    "timeWeek": 646,
+    "timeMonth": 635,
+    "timeYear": 639,
     "dailyMinutesDown": {
       "2023-07-10": 287,
       "2023-06-28": 923,
@@ -103,8 +103,7 @@
       "2023-04-26": 1440,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
-      "2023-04-23": 1440,
-      "2023-04-22": 1440
+      "2023-04-23": 1440
     }
   }
 ]

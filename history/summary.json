@@ -30,7 +30,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.45%",
+    "uptimeYear": "85.46%",
     "time": 636,
     "timeDay": 691,
     "timeWeek": 641,
@@ -97,19 +97,19 @@
     "url": "https://linebot.junting.info/",
     "icon": "https://icons.duckduckgo.com/ip3/linebot.junting.info.ico",
     "slug": "linebot",
-    "status": "down",
-    "uptime": "7.40%",
-    "uptimeDay": "7.40%",
-    "uptimeWeek": "7.40%",
-    "uptimeMonth": "7.40%",
-    "uptimeYear": "7.40%",
-    "time": 516,
-    "timeDay": 516,
-    "timeWeek": 516,
-    "timeMonth": 516,
-    "timeYear": 516,
+    "status": "up",
+    "uptime": "0.34%",
+    "uptimeDay": "0.34%",
+    "uptimeWeek": "0.34%",
+    "uptimeMonth": "0.34%",
+    "uptimeYear": "0.34%",
+    "time": 612,
+    "timeDay": 612,
+    "timeWeek": 612,
+    "timeMonth": 612,
+    "timeYear": 612,
     "dailyMinutesDown": {
-      "2024-05-06": 0
+      "2024-05-06": 28
     }
   }
 ]

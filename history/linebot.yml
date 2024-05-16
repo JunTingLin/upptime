@@ -1,7 +1,7 @@
 url: https://linebot.junting.info/
-status: up
-code: 200
-responseTime: 379
-lastUpdated: 2024-05-16T13:37:19.799Z
+status: down
+code: 502
+responseTime: 299
+lastUpdated: 2024-05-16T14:09:48.380Z
 startTime: 2024-05-06T17:43:46.439Z
 generator: Upptime <https://github.com/upptime/upptime>

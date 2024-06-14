@@ -7,8 +7,10 @@ sites:
     url: https://www.google.com
   - name: My website
     url: https://junting.info/
-  - name: Linebot
-    url: https://linebot.junting.info/
+  - name: Linebot1
+    url: https://stock-analysis.linebot1.junting.info/
+  - name: Linebot2
+    url: https://stock-analysis.linebot2.junting.info/
 
 
 status-website:

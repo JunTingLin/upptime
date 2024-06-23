@@ -1,7 +1,7 @@
 url: https://stock-analysis.linebot2.junting.info/
-status: down
-code: 502
-responseTime: 664
-lastUpdated: 2024-06-23T06:40:42.722Z
+status: up
+code: 200
+responseTime: 340
+lastUpdated: 2024-06-23T08:57:32.188Z
 startTime: 2024-06-14T16:54:13.134Z
 generator: Upptime <https://github.com/upptime/upptime>

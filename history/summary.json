@@ -24,19 +24,19 @@
     "url": "https://junting.info/",
     "icon": "https://icons.duckduckgo.com/ip3/junting.info.ico",
     "slug": "my-website",
-    "status": "up",
-    "uptime": "66.25%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "status": "down",
+    "uptime": "66.26%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 2820,
-    "timeWeek": 1735,
-    "timeMonth": 987,
-    "timeYear": 680,
+    "time": 689,
+    "timeDay": 3631,
+    "timeWeek": 2231,
+    "timeMonth": 1178,
+    "timeYear": 698,
     "dailyMinutesDown": {
-      "2024-07-24": 13
+      "2024-07-24": 0
     }
   },
   {

@@ -24,18 +24,20 @@
     "url": "https://junting.info/",
     "icon": "https://icons.duckduckgo.com/ip3/junting.info.ico",
     "slug": "my-website",
-    "status": "up",
-    "uptime": "66.27%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "66.28%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 692,
-    "timeDay": 3041,
-    "timeWeek": 2201,
-    "timeMonth": 1196,
-    "timeYear": 702,
-    "dailyMinutesDown": {}
+    "time": 699,
+    "timeDay": 3090,
+    "timeWeek": 2282,
+    "timeMonth": 1254,
+    "timeYear": 709,
+    "dailyMinutesDown": {
+      "2024-07-25": 0
+    }
   },
   {
     "name": "Linebot1",

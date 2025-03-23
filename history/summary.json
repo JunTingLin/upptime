@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/junting.info.ico",
     "slug": "my-website",
     "status": "up",
-    "uptime": "66.14%",
+    "uptime": "66.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -162,18 +162,20 @@
     "url": "https://stock-analysis-mirlab.junting.info/",
     "icon": "https://icons.duckduckgo.com/ip3/stock-analysis-mirlab.junting.info.ico",
     "slug": "stock-analysis-mirlab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 301,
-    "timeWeek": 495,
-    "timeMonth": 493,
-    "timeYear": 507,
-    "dailyMinutesDown": {}
+    "time": 506,
+    "timeDay": 323,
+    "timeWeek": 476,
+    "timeMonth": 488,
+    "timeYear": 506,
+    "dailyMinutesDown": {
+      "2025-03-23": 0
+    }
   },
   {
     "name": "stock-analysis-peter",

@@ -13,6 +13,8 @@ sites:
     url: https://stock-analysis-mirlab.junting.info/
   - name: stock-analysis-peter
     url: https://stock-analysis-peter.junting.info/
+  - name: tsmc-attendance-system
+    url: https://tsmc-attendance-system.junting.info/
 
 
 status-website:

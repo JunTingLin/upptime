@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/junting.info.ico",
     "slug": "my-website",
     "status": "up",
-    "uptime": "68.56%",
+    "uptime": "68.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -217,17 +217,19 @@
     "url": "https://attendance-system-api-752674193588.asia-east1.run.app/swagger-ui/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/attendance-system-api-752674193588.asia-east1.run.app.ico",
     "slug": "tsmc-attendance-system-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 350,
-    "timeDay": 387,
-    "timeWeek": 342,
-    "timeMonth": 350,
-    "timeYear": 350,
-    "dailyMinutesDown": {}
+    "time": 343,
+    "timeDay": 315,
+    "timeWeek": 330,
+    "timeMonth": 343,
+    "timeYear": 343,
+    "dailyMinutesDown": {
+      "2025-06-07": 0
+    }
   }
 ]

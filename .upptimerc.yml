@@ -7,12 +7,8 @@ sites:
     url: https://www.google.com
   - name: My website
     url: https://junting.info/
-  - name: stock-analysis-test
-    url: https://stock-analysis-test.junting.info/
-  - name: stock-analysis-mirlab
-    url: https://stock-analysis-mirlab.junting.info/
-  - name: stock-analysis-peter
-    url: https://stock-analysis-peter.junting.info/
+  - name: stock-analysis
+    url: http://140.112.91.62:5000/
   - name: tsmc-attendance-system-frontend
     url: https://tsmc-attendance-system.junting.info/
   - name: tsmc-attendance-system-backend

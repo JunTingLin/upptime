@@ -74,9 +74,9 @@
     "url": "http://140.112.91.62:5000/",
     "icon": "https://icons.duckduckgo.com/ip3/140.112.91.62.ico",
     "slug": "stock-analysis",
-    "status": "up",
+    "status": "down",
     "uptime": "95.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.67%",
     "uptimeYear": "95.93%",
@@ -86,6 +86,7 @@
     "timeMonth": 337,
     "timeYear": 333,
     "dailyMinutesDown": {
+      "2026-04-28": 0,
       "2026-04-11": 100,
       "2026-04-08": 578,
       "2026-04-07": 1440,
@@ -153,7 +154,7 @@
     "timeMonth": 303,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2026-04-28": 162,
+      "2026-04-28": 444,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,

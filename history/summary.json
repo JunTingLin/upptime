@@ -73,16 +73,16 @@
     "url": "http://140.112.174.201:5000/",
     "icon": "https://icons.duckduckgo.com/ip3/140.112.174.201.ico",
     "slug": "stock-analysis",
-    "status": "down",
-    "uptime": "94.67%",
-    "uptimeDay": "94.53%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "94.45%",
+    "status": "up",
+    "uptime": "94.65%",
+    "uptimeDay": "86.11%",
+    "uptimeWeek": "97.22%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "94.42%",
     "time": 335,
-    "timeDay": 393,
-    "timeWeek": 360,
-    "timeMonth": 346,
+    "timeDay": 335,
+    "timeWeek": 351,
+    "timeMonth": 344,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2025-07-15": 185,
@@ -124,7 +124,7 @@
       "2026-06-04": 83,
       "2026-06-07": 96,
       "2026-07-02": 80,
-      "2026-07-08": 79
+      "2026-07-08": 200
     }
   },
   {
@@ -164,7 +164,7 @@
     "timeMonth": 260,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2026-07-08": 148,
+      "2026-07-08": 269,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
